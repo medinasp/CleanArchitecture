@@ -5,7 +5,7 @@ Structure for work on Clean Architecture
 
 Esta é uma estrutura pronta para desenvolver com Clean Architecture facilitando a aplicação de um código desacoplado e observando princípios SOLID, escalável e responsável.
 
-Você pode pegar o código e desenvolver a partir dele, ou pode observar o tutorial abaixo de como deenvolve-lo você mesmo.
+Você pode pegar o código e desenvolver a partir dele, ou pode observar o tutorial abaixo de como desenvolve-lo você mesmo.
 
 É possivel e até provável que haja erros, porque estou aprendendo, fique a vontade para apontá-los se quiser, será de grande ajuda:
 
